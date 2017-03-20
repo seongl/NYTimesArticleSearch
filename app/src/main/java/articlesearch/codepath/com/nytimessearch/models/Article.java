@@ -1,4 +1,4 @@
-package articlesearch.codepath.com.nytimessearch;
+package articlesearch.codepath.com.nytimessearch.models;
 
 import org.json.JSONArray;
 import org.json.JSONException;

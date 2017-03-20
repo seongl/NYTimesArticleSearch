@@ -4,4 +4,11 @@
     <string name="hint">Enter search query</string>
     <string name="search">Search</string>
     <string name="title_activity_article">ArticleActivity</string>
+    <string name="title_activity_filter">FilterActivity</string>
+    <string name="sort_order_prompt">Status</string>
+    <string name="arts">arts</string>
+    <string name="sports">sports</string>
+    <string name="fashion_style">fashion_style</string>
+    <string name="begin_date">Begin Date</string>
+    <string name="sort">Sort order</string>
 </resources>
